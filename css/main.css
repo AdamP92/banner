@@ -19,14 +19,12 @@ html {
   box-sizing: inherit;
 }
 
-
 .img-flex {
   display: block;
   width: 100%;
 }
 
 .banner {
-  /*border: 3px solid #fff;*/
   position: relative;
   max-height: 24rem;
   overflow: hidden;
